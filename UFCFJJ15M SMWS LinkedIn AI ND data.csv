@@ -1,0 +1,634 @@
+﻿Post ID,Post Text (Anonymised),Hashtags Used,Initial LLM Main Theme (Carik Domain),,revised LLM Carik Domains,,Justification,Challenges,Needs and Wants,Sharing Hacks and Resources,Concerns,,Meta Insights,,LLM Meta Insight Tags + Justification,"LLM_Sentiment (Positive / Neutral / Negative, mixed)",Text2Data_Sentiment,,LLM sentiment justifications and whereever they divergedfrom Text2Data,
+001,"Ever felt like your thoughts are hopping around like a bunny on a caffeine high? The intersection of AI and ADHD might just be the answer. Dive into this insightful article about how AI tools can work wonders for managing ADHD and unlocking your potential. From crafting emails to processing information, AI could be the magic ingredient you need to sharpen your mind and take control. Check it out and challenge chaos with AI-powered productivity! #AI #ADHD #Productivity #Debate https://www.linkedin.com/feed/update/urn:li:activity:7207800294586351617?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7207800294586351617%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3B2UZMLuVjSSSJFNKW%2BczPVg%3D%3D ", #AI #ADHD #Productivity #Debate,"Interpersonal Communication, Professional Development & Productivity",,"Professional Development & Productivity, Interpersonal Communication",,"Mentions productivity, time management, or work-related organization. References improving expression or preparing for professional/personal communication.",FALSE,TRUE,FALSE,FALSE,,Needs and Wants,,"Challenges, Needs and Wants, Sharing Hacks and Resources â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Expresses needs or desires for tools, support, or improvements.; Provides or suggests tools, apps, or productivity strategies.",Mixed,positive (+1.00)  Subjectivity: subjective,,"Why Mixed?
+Though the post is upbeat, it reflects internal chaos and overwhelm. Phrases like “thoughts hopping like a bunny on a caffeine high” and “challenge chaos” acknowledge struggle. The final tone is hopeful, but the emotional arc includes distress → curiosity → optimism. Text2Data misses that layered emotional journey.",
+002,Recent blog post on using a few simple AI prompts/tools to get unstuck with planning and improve efficiency with it as well as with organizing information. #ADHD #AI #planning #executivefunctioning #productivity https://www.linkedin.com/feed/update/urn:li:activity:7244047912282857476?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7244047912282857476%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3Bdf28%2BISvQT%2B%2BTv95u8xlhQ%3D%3D,#ADHD #AI #planning #executivefunctioning #productivity ,Professional Development & Productivity,,Professional Development & Productivity,,"Mentions productivity, time management, or work-related organization.",FALSE,FALSE,TRUE,FALSE,,Sharing Hacks and Resources,,"Sharing Hacks and Resources â€“ Provides or suggests tools, apps, or productivity strategies.",Neutral,positive (+0.48)  Subjectivity: unknown,,"Why Neutral?
+The post is brief and functional — it shares a blog post about AI for planning. There’s no personal emotion or enthusiasm, just an informative tone. Text2Data likely scored it “positive” due to words like “improve” or “efficiency,” but there is no subjective emotional content.
+",
+003,"How AI Can Help Entrepreneurs With ADHD Thrive
+
+Entrepreneurship is a whirlwind of creativity, decision-making, and problem-solving—a rewarding journey but often overwhelming, especially for those with ADHD. Managing priorities, staying on task, and juggling multiple responsibilities can feel like scaling a mountain without a map.
+
+That’s where AI comes in. 💡
+
+AI tools are more than just tech—they're game-changers for productivity and focus. For entrepreneurs with ADHD, they offer solutions that feel almost tailor-made:
+
+🧠 Streamline Tasks: AI-powered apps like Trello and Asana simplify task management, breaking projects into manageable chunks.
+⏱ Stay on Track: Tools like Toggl or Clockify make time tracking easy, helping you stay on schedule.
+📧 Declutter Your Inbox: AI email assistants like SaneBox sort and prioritize emails, so you can focus on what truly matters.
+✨ Boost Creativity: Platforms like ChatGPT or Jasper help brainstorm ideas, create content, and keep the creative flow alive without burnout.
+🗂 Organize Chaos: With apps like Notion or Evernote, you can capture ideas instantly and organize them effectively—no more lost thoughts!
+
+Living with ADHD doesn’t have to mean struggling with entrepreneurship. With the right AI tools, you can channel your energy, creativity, and vision into building your dreams without losing momentum. 🚀
+
+What are your go-to tools or strategies for staying productive? Share your tips below—let's inspire and empower each other! 👇Check out my article here: https://buff.ly/4fLPu9U 
+
+#ADHD #Entrepreneurship #AI #Productivity",#ADHD #Entrepreneurship #AI #Productivity,"Interpersonal Communication, Professional Development & Productivity",,"Professional Development & Productivity, Interpersonal Communication, Mental Health Support",,"Mentions productivity, time management, or work-related organization. References improving expression or preparing for professional/personal communication. Addresses emotional challenges or mental wellness support.",TRUE,FALSE,TRUE,FALSE,,"Challenges, Sharing Hacks and Resources",,"Challenges, Sharing Hacks and Resources â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Provides or suggests tools, apps, or productivity strategies.",Mixed,positive (+1.00)  Subjectivity: subjective,,"Why Mixed?
+This long post discusses ADHD difficulties (overwhelm, executive dysfunction) alongside tools that help. While tools are praised, the emotional base is one of struggle, relief, and partial resolution. Text2Data likely skewed toward keywords like “simplify” or “boost” but ignored the real vulnerability underneath.",
+004,Unlock the hidden potential of ADHD in the workplace! Discover how AI can help individuals like me harness our unique strengths to drive productivity and innovation. By Rojin Pedrood. #ADHD #AI #productivity #innovation #techforgood #organizationalgrowth #mentalhealth #workplaceefficiency #inclusion https://www.linkedin.com/feed/update/urn:li:activity:7223507478410391552?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7223507478410391552%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3Bdf28%2BISvQT%2B%2BTv95u8xlhQ%3D%3D,#ADHD #AI #productivity #innovation #techforgood #organizationalgrowth #mentalhealth #workplaceefficiency #inclusion,Professional Development & Productivity,,Professional Development & Productivity,,"Mentions productivity, time management, or work-related organization.",FALSE,FALSE,FALSE,FALSE,,,,None â€“ No clear meta insight indicators.,Positive,neutral (-0.125)  Subjectivity: uknown,,"Why Positive?
+There’s clear celebration of ADHD strength and potential: “Unlock hidden potential!” The tone is energised and motivational. Text2Data likely marked it “neutral” due to lack of emotional words, but the framing is affirming and upbeat.",
+005,"""Using AI for Neurodiversity and Building Inclusive Tools: Empowering Neurodivergent Individuals in the Digital Age."" 
+
+At Able, We believe accessibility goes beyond a simple checkbox, our mission is to transform digital solutions to better serve the specific needs of neurodiverse individuals in the workplace. Start your journey to enhanced productivity now.
+
+Learn more here https://lnkd.in/e7JKjkGp
+
+#Neurodivergent, #MentalHealth, #NeurodivergentAI, #ADHD, #DEI #Able #AI #Productivity #Autism #Inclusion, #DigitalWorkspaces #Neurodivergence","#Neurodivergent, #MentalHealth, #NeurodivergentAI, #ADHD, #DEI #Able #AI #Productivity #Autism #Inclusion, #DigitalWorkspaces #Neurodivergence","Learning, Professional Development & Productivity",,"Professional Development & Productivity, Learning",,"Mentions productivity, time management, or work-related organization. Indicates use of AI for understanding or processing information.",FALSE,TRUE,FALSE,FALSE,,Needs and Wants,,"Needs and Wants, Sharing Hacks and Resources â€“ Expresses needs or desires for tools, support, or improvements.; Provides or suggests tools, apps, or productivity strategies.",Positive,positive (+0.75)  Subjectivity: objective,,"While the tone is mostly promotional and upbeat, it also touches on structural workplace exclusion and the need for AI to improve inclusivity—an implicit critique. This nuance creates a more complex emotional arc, combining empowerment with a call for change, which qualifies as Mixed sentiment.",
+006,"🤔 How is AI reshaping the way we handle tasks, especially for those with ADHD?
+
+Entrepreneurs like Becky Litvintchouk have found innovative ways to leverage AI to streamline their workflows and boost productivity. Becky, who manages ADHD, uses Anthropic's Claude AI to select contracts and craft business plans for her company, GetDirty, saving time and reducing stress. But she’s not alone—many others are finding AI indispensable for tackling everyday challenges. 🌟
+
+However, AI is not a one-size-fits-all solution. Experts like John Mitchell from Duke University caution against relying too heavily on AI tools. He suggests that while AI can keep us afloat, traditional methods—like skill-building and medication—are still crucial. 🧠 What’s your take? Should AI be just a supplement, or can it stand alone in certain scenarios?
+
+Apps like Goblin, created by software engineer Bram de Buyser, are becoming lifelines for people who struggle with organizing tasks. Their “magic to-do” feature is a game-changer for breaking down overwhelming tasks into manageable steps. Yet, there’s always the looming concern of privacy and the risk of AI responses lacking cultural nuances. How do you feel about AI handling personal tasks? Are the privacy risks worth the convenience? 🔒
+
+As businesses increasingly rely on AI, including outsourcing software development tasks, it’s essential to partner with companies that understand the intricacies of software engineering. Unico Works stands out with its expertise in software development outsourcing and outstaffing, offering tailored solutions for companies looking to stay ahead of the curve. 🚀 How is your organization integrating AI into its workflow, and what challenges have you faced?
+
+Remember, AI is a tool—a powerful one, but it should be used wisely and ethically. How are you navigating the balance between innovation and responsibility in your use of AI? #AI #SoftwareDevelopment #Innovation #DigitalTransformation #ADHD #Entrepreneurship #Outsourcing #Productivity #Privacy #DigitalTechnologies",#AI #SoftwareDevelopment #Innovation #DigitalTransformation #ADHD #Entrepreneurship #Outsourcing #Productivity #Privacy #DigitalTechnologies,Professional Development & Productivity,,"Professional Development & Productivity, Mental Health Support",,"Mentions productivity, time management, or work-related organization. Addresses emotional challenges or mental wellness support.",TRUE,TRUE,FALSE,TRUE,,"Challenges, Needs and Wants, Concerns",,"Challenges, Sharing Hacks and Resources, Concerns â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Provides or suggests tools, apps, or productivity strategies.; Mentions worries or possible negative effects of AI tools.",Mixed,positive (+1.00)  Subjectivity: subjective,,"Why Mixed?
+The post balances praise with caution. It celebrates user wins but highlights valid fears — privacy, cultural nuance, overdependence. This duality creates a balanced emotional arc, which Text2Data misreads as purely positive.",
+007,"**ADHD Superpower Unlocked: Unleashing Creativity with AI **
+Feeling like your brain is a pinball machine on overdrive? Fellow ADHDers, it's not a bug, it's a feature! And guess what? The future of neurodiversity just got brighter thanks to AI. ✨
+Say goodbye to scattered chaos and hello to:
+Organization superpowers: AI tackles your to-do list like a laser-focused executive assistant, reminding you with hummingbird-like persistence. No more lost sticky notes!
+Hyper-focus fuel: Ditch the creative droughts! AI tools like ChatGPT become your brainstorming buddy, churning out ideas at lightning speed and helping you conquer complex projects.
+Dream project achievement: Struggling to get started? AI is your sherpa, guiding you through planning, organization, and execution, transforming Mount Everest into a thrilling, productive climb.
+Let's rewrite the narrative! ADHD isn't a disability, it's a superpower. And with AI as our ally, we're ready to unleash our full potential.
+Dive deeper:
+Join my podcast, Tombstone-dashGPT, for AI & ADHD - https://lnkd.in/gH3UdbPH
+Experiment with AI yourself: https://lnkd.in/gF3-Y_HU
+Explore my creative journey: https://lnkd.in/gTcWXiCV
+#ADHD #Neurodiversity #AI #Creativity #Productivity #Innovation",#ADHD #Neurodiversity #AI #Creativity #Productivity #Innovation,"Interpersonal Communication, Professional Development & Productivity",,"Professional Development & Productivity, Learning",,"Mentions productivity, time management, or work-related organization. Indicates use of AI for understanding or processing information.",FALSE,FALSE,FALSE,FALSE,,,,"Sharing Hacks and Resources â€“ Provides or suggests tools, apps, or productivity strategies.",Mixed,neutral (+0.25)  Subjectivity: subjective,,"Why Mixed?
+While presented playfully, the post reflects real ADHD challenges: “chaos,” “scattered,” and needing external structure. There's optimism — “ADHD isn’t a bug, it’s a feature” — but also clear hints of struggle. Text2Data misses this tension.",
+008,"Struggling to Stay on Track? How AI Can Help You Achieve Your Business and Career Goals This Year
+
+💡 #ADHD #Productivity #AI #Entrepreneurship #BusinessGrowth #TimeManagement", #ADHD #Productivity #AI #Entrepreneurship #BusinessGrowth #TimeManagement,Professional Development & Productivity,,Professional Development & Productivity,,"Mentions productivity, time management, or work-related organization.",FALSE,FALSE,FALSE,FALSE,,,,None â€“ No clear meta insight indicators.,Positive,positive (+0.48)  Subjectivity: unknown,,"Why it fits:
+This short promotional post uses hashtags like #ADHD, #Productivity, #AI and directly frames AI as helpful for achieving goals. Though minimal, the framing is encouraging and upbeat, with no critical language. Both tools correctly read this as positive, showing agreement even with limited content.
+",
+009,"AI with ADHD is Amazing… But Here’s the Dark Side
+
+AI is a game-changer for ADHD brains. The ability to rapid-fire ideas, flesh out concepts, and get instant feedback? Absolute magic. I can brainstorm a dozen business strategies, draft a story, and have AI clean up my grammar before I even finish my coffee.
+
+But there’s a dark side.
+
+The looping. The craving for more information. I ask one question, then another, and another—trying to reach top-notch perfection. Suddenly, I’m drowning in insights, circling the same ideas instead of doing anything with them. AI makes us all experts in 10 minutes, but there’s a difference between consuming knowledge and actually executing it.
+
+Following through? Now, that’s the real challenge.
+
+Honestly, I need a humanoid robot in my house just to kick my ass into action. Imagine an AI-powered accountability coach—friendly but firm. A motivational slap in the face. Maybe a light taser if I start doom-scrolling. Or better yet, my phone gets locked inside the humanoid robot until I complete a task.
+
+I’d probably hate it… but I’d get things done. 😂
+
+Am I the only one who feels this struggle?
+
+#ADHD #AI #Productivity #Overthinking #ExecutionOverPerfection",#ADHD #AI #Productivity #Overthinking #ExecutionOverPerfection,Professional Development & Productivity,,"Professional Development & Productivity, Emotional Wellbeing",,"Mentions productivity, time management, or work-related organization. Describes emotional grounding, structure, or non-judgmental support.",TRUE,TRUE,FALSE,FALSE,,"Challenges, Needs and Wants",,"Challenges, Needs and Wants, Sharing Hacks and Resources â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Expresses needs or desires for tools, support, or improvements.; Provides or suggests tools, apps, or productivity strategies.",Mixed, negative (-0.62) Subjectivity: subjective,,"Why Mixed?
+Though humourous and self-aware, this post includes self-deprecating frustration and hope. The “humanoid robot” joke, while funny, masks real difficulty. It’s both emotionally exhausted and inspired — not fully negative.",
+010,"Claude is my new best friend lately. I'm wondering if that's a problem.
+
+Having ADHD, I want to go from A to B as fast as I can, and AI has been a game-changer. Being someone who's naturally good at making observations and reasoning, I often find myself both mind-blown and a bit unsettled about Claude's reasoning capabilities and insights.
+
+🤔 I can't help but wonder: will AI burn us out and make our brains lazy, or will it spark inspiration and creativity?
+
+Like most tools, it depends on how we use it. That's exactly my challenge – finding the sweet spot where AI elevates my work without doing all the mental heavy lifting.
+
+Do you have any tips on how to use AI in a healthy way?
+
+(Yes, Claude helped me write this. I actually had to tell it to take it down a couple of notches 😁)
+
+#AI #ADHD #Productivity",#AI #ADHD #Productivity,Professional Development & Productivity,,Professional Development & Productivity,,"Mentions productivity, time management, or work-related organization.",TRUE,TRUE,TRUE,FALSE,,"Challenges, Needs and Wants, Sharing Hacks and Resources",,"Challenges, Needs and Wants, Sharing Hacks and Resources â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Expresses needs or desires for tools, support, or improvements.; Provides or suggests tools, apps, or productivity strategies.",Mixed, positive (+0.70) Subjectivity: subjective,,"Why Mixed?
+Expresses hope and anxiety: “I’m mind-blown but unsettled.” AI is helpful, but also destabilising. This nuanced tension — awe + fear — defines the mixed tone.",
+011,Ever wondered how #AI can help manage ADHD? I’ve been using ChatGPT to break down complex tasks and reduce mental overwhelm in my design business. 🧠✨ Curious? Read about my experience in my latest Medium post! https://lnkd.in/gK6zeTGV #ADHD #Productivity #AI #MentalHealth https://www.linkedin.com/feed/update/urn:li:activity:7229293111489740801?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7229293111489740801%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3BfdjUqFBySSm5Tx6cuzcAYw%3D%3D,#ADHD #Productivity #AI #MentalHealth,Professional Development & Productivity,,"Professional Development & Productivity, Learning, Mental Health Support",,"Mentions productivity, time management, or work-related organization. Indicates use of AI for understanding or processing information. Addresses emotional challenges or mental wellness support.",TRUE,FALSE,FALSE,FALSE,,Challenges,,None â€“ No clear meta insight indicators.,Mixed,negative (-0.62)  Subjectivity: subjective,,"LLM Justification (Mixed):
+While the post opens with “Ever wondered how AI can help manage ADHD?” and discusses using ChatGPT to reduce overwhelm, it is overall reflective and slightly playful, not overtly negative. The use of “overwhelm” might have triggered Text2Data's rule-based flag for negativity, but the post ends with curiosity and a Medium article invitation — indicating hope and solution-seeking, not frustration.
+✅ LLM’s Mixed label reflects the tension between overwhelm and finding tools to help, better capturing the nuance.",
+012,"Struggling to stay focused and organized? These 5 ADHD-friendly apps can help skyrocket your productivity and keep you on track! ✨
+
+#adhdfriendlyapps #adhd #productivity #mentalhealthapps #todolist #reminders #tts #texttospeech #ai #dyslexiaawareness #dyslexiatips #helpfulapps #learningtools #makinglearningfun https://www.linkedin.com/feed/update/urn:li:activity:7227110269691273216?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7227110269691273216%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3BfdjUqFBySSm5Tx6cuzcAYw%3D%3D",#adhdfriendlyapps #adhd #productivity #mentalhealthapps #todolist #reminders #tts #texttospeech #ai #dyslexiaawareness #dyslexiatips #helpfulapps #learningtools #makinglearningfun,"Learning, Professional Development & Productivity",,"Professional Development & Productivity, Learning",,"Mentions productivity, time management, or work-related organization. Indicates use of AI for understanding or processing information.",FALSE,FALSE,TRUE,FALSE,,Sharing Hacks and Resources,,"Sharing Hacks and Resources â€“ Provides or suggests tools, apps, or productivity strategies.",Positive,positive (+0.73) Subjectivity: unknown,,"The post lists tools and hashtags without direct reflection or emotional tone. There's no personal voice, experience, or emotional charge—just a resource drop. Text2Data may have flagged the tools and topic as ""positive"" keywords, but the tone is informational, thus LLM labels it Neutral.",
+013,"🌟 Embracing AI for Enhanced Productivity: A Personal Journey with ADHD 🌟
+
+Van Badham shares her transformative journey with ChatGPT after her ADHD diagnosis. Initially wary, she found in AI a non-judgmental assistant that revolutionized her task management. Beyond personal gains, her story invites us to ponder AI's ethical and practical roles in our lives.
+
+👉 Dive deeper into her insights here: https://lnkd.in/e6jFGy5C
+
+Let's discuss: How can AI enhance your productivity?
+
+#AI #Productivity #ADHD #TechForGood #PromptHacks",#AI #Productivity #ADHD #TechForGood #PromptHacks,"Emotional Wellbeing, Professional Development & Productivity",,Professional Development & Productivity,,"Mentions productivity, time management, or work-related organization.",FALSE,FALSE,TRUE,FALSE,,Sharing Hacks and Resources,,"Sharing Hacks and Resources â€“ Provides or suggests tools, apps, or productivity strategies.",Positive,positive (+0.52) Subjectivity: objective,,"This post shares Van Badham’s positive transformation using ChatGPT after her ADHD diagnosis. It includes words like “non-judgmental assistant,” “revolutionized,” and “gains,” which reflect strong personal praise and gratitude. The LLM and Text2Data both detected these cues and agreed on positive sentiment.
+",
+014,Learn how you can use AI to mitigate and manage ADHD #ADHD #AI #Productivity #LifeWithADHD #Automation #AIInBusiness #MentalHealth #TechForGood https://www.linkedin.com/feed/update/urn:li:activity:7206569689760591874?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7206569689760591874%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3BfdjUqFBySSm5Tx6cuzcAYw%3D%3D,#ADHD #AI #Productivity #LifeWithADHD #Automation #AIInBusiness #MentalHealth #TechForGood,"Learning, Professional Development & Productivity",,"Professional Development & Productivity, Learning",,"Mentions productivity, time management, or work-related organization. Indicates use of AI for understanding or processing information.",FALSE,FALSE,FALSE,FALSE,,,,"Sharing Hacks and Resources â€“ Provides or suggests tools, apps, or productivity strategies.",Neutral,neutral (+0.14)  Subjectivity: unknown ,,"This post is short and purely descriptive. It provides a link to learn more about managing ADHD with AI, without sharing a personal narrative, opinion, or emotional arc. Both tools correctly interpreted the lack of sentiment-rich content as neutral.",
+015,"🚀 Redefining Productivity with ADHD in the Age of AI 🚀
+As someone with ADHD, multitasking was my go-to strategy. However, I've realized it's more of a mirage than a miracle. It feels efficient, but it often leads to a fragmented focus.
+🔍 Multitasking vs. Mental Health
+In our fast-paced world, multitasking seems necessary, but it can strain our mental health and attention span. It's particularly challenging for those of us with ADHD, as it can lead to feeling overwhelmed without meaningful progress.
+🤖 Embracing AI for Focused Success
+Enter the age of general AI. These tools have been game-changers, making tasks that require deep focus seem more manageable and achievable. AI assists in organizing thoughts and tasks, freeing our minds to concentrate on one thing at a time.
+🧠 Health and Happiness First
+This journey has taught me a vital lesson: our attention and mental well-being are crucial to success and happiness. By prioritizing focused work, aided by AI, we can achieve more while safeguarding our mental health.
+💡 Sharing Our Stories
+Let's discuss how technology, like AI, can aid in managing ADHD and improving productivity. How do you balance multitasking and focus in your life? Share your strategies!
+
+www.fenetec.com
+
+#ADHD #AI #Productivity #MentalHealth #Focus #WorkplaceWellness",#ADHD #AI #Productivity #MentalHealth #Focus #WorkplaceWellness,"Mental Health Support, Professional Development & Productivity",,"Professional Development & Productivity, Mental Health Support",,"Mentions productivity, time management, or work-related organization. Addresses emotional challenges or mental wellness support.",TRUE,TRUE,TRUE,FALSE,,"Challenges, Needs and Wants, Sharing Hacks and Resources",,"Challenges, Sharing Hacks and Resources â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Provides or suggests tools, apps, or productivity strategies.",Mixed,positive (+0.62)  Subjectivity: subjective,,"LLM Justification (Mixed):
+This is a very layered post. The author reflects on the struggles of multitasking with ADHD, notes how it strains mental health, then shifts into celebrating AI as a solution for focus. It ends with a message about protecting wellbeing and sharing strategies, so there’s a clear positive turn, but it begins from a place of difficulty and emotional vulnerability.
+✅ LLM classed this as Mixed due to the emotional arc: moving from personal strain to optimism, rather than purely promotional or uplifting.",
+016,"Want to make time?
+
+Thanks to LLM Liaison for sponsoring FutureU Co-Labs! Large language models (LLMs) can contribute significantly to self-care by alleviating the burden of repetitive and mentally exhausting tasks. By automating these tasks, users gain more time to focus on what they love, reducing stress and freeing up energy for personal care and growth.
+
+Sign Up for Updates on Workshops, Consulting & AI Coffee Chats — Stay in the loop! Get updates on upcoming workshops, One-on-One consulting sessions, and our open coffee Q&A chats where we discuss all things AI. More exciting news coming soon!
+
+https://llmliaison.com/
+
+#productivity #neurodivergent #ADHD #selfCare #LLM #AI #timeManagement",#productivity #neurodivergent #ADHD #selfCare #LLM #AI #timeManagement,Professional Development & Productivity,,"Professional Development & Productivity, Mental Health Support",,"Mentions productivity, time management, or work-related organization. Addresses emotional challenges or mental wellness support.",FALSE,TRUE,FALSE,FALSE,,Needs and Wants,,"Needs and Wants, Sharing Hacks and Resources â€“ Expresses needs or desires for tools, support, or improvements.; Provides or suggests tools, apps, or productivity strategies.",Positive, positive (+0.67)  Subjectivity: objective,,"The post explains how LLMs help reduce the burden of repetitive tasks, giving users more time for meaningful activities. It also encourages workshop sign-ups and promotes the LLM liaison brand. This solution-focused post is clear in tone — light, hopeful, and confident — making positive a natural match for both tools.
+",
+017,"👋 As a passionate advocate for neurodivergent inclusion, I’m excited to discuss how technology can be a game-changer for neurodivergent employees, especially those diagnosed later in life.
+
+🔹 Assistive Technologies- Embrace tools like speech-to-text software, screen readers, and noise-canceling headphones. These innovations cater to diverse sensory and communication needs, fostering an environment where everyone can thrive.
+
+🔹 Project Management Tools- Project Management Tools - Platforms like Trello, Asana, and Monday.com provide visual task organization, which benefits individuals with ADHD or executive functioning challenges. Clear structures reduce overwhelm and improve productivity.
+
+🔹 Communication Apps- Leverage apps like Slack and Microsoft Teams that support asynchronous communication. This flexibility allows individuals to process information at their own pace, promoting thoughtful interactions.
+
+🔹 Mindfulness and Well-being Apps- Incorporate apps like Headspace and Calm into your routine. These tools provide guided meditations and relaxation techniques, helping manage anxiety and stress effectively.
+
+🔹 Customizable Workspaces- Utilize software that allows personalization—adjustable font sizes, color contrasts, and layout modifications ensure everyone can create a comfortable and productive work environment.
+
+Technology is more than just a tool—it’s a catalyst for inclusion, ensuring neurodivergent employees feel valued, supported, and empowered. 
+Let’s continue to harness these advancements to build inclusive and supportive workplaces!
+
+What technologies have made a difference in your work life? 
+
+Share your experiences and tips below! 👇
+
+#neurodiversity #Inclusion #assistivetechnology #workplacewellbeing #ADHD #autism #neurodivergent #inclusiveworkplace #mentalhealth #productivity #techforgood",#neurodiversity #Inclusion #assistivetechnology #workplacewellbeing #ADHD #autism #neurodivergent #inclusiveworkplace #mentalhealth #productivity #techforgood,"Emotional Wellbeing, Mental Health Support, Interpersonal Communication, Learning, Professional Development & Productivity",,"Professional Development & Productivity, Learning, Mental Health Support, Emotional Wellbeing",,"Mentions productivity, time management, or work-related organization. Indicates use of AI for understanding or processing information. Addresses emotional challenges or mental wellness support. Describes emotional grounding, structure, or non-judgmental support.",TRUE,TRUE,TRUE,FALSE,,"Challenges, Needs and Wants, Sharing Hacks and Resources",,"Challenges, Needs and Wants, Sharing Hacks and Resources â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Expresses needs or desires for tools, support, or improvements.; Provides or suggests tools, apps, or productivity strategies.",Mixed, positive (+0.67)  Subjectivity: subjective,," Mixed is correct
+
+Justification: While the post celebrates inclusive tech and lists assistive tools with enthusiasm, it also flags key accessibility and equity gaps indirectly—raising inclusion challenges ND people face. The tone is optimistic but framed in advocacy, not pure praise. Mixed reflects the constructive tension.",
+018,"Boost ADHD Productivity: ChatGPT Efficiency Explored 🧠
+
+Explore how ChatGPT streamlines tasks and transforms creative ideas into actionable plans for enhanced ADHD productivity. Discover its impact on project management, anxiety reduction, and refined communication for polished outcomes.
+
+Read the latest article and stay tuned for time management strategies with ChatGPT!
+
+#ADHD #Productivity #TaskManagement #AI #ChatGPT #AssistiveTechnology #Automation #Brainstorming #IdeaGeneration #CreativeSolutions #Focus #AdminEfficiency #ProfessionalCommunication #EmergingTech #FutureOfWork #NeurodivergentSupport #TimeManagement #WorkplaceEfficiency #Innovation #Leadership #AItools #MentalHealth #Work https://www.linkedin.com/feed/update/urn:li:activity:7201983802489905153?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7201983802489905153%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3BfdjUqFBySSm5Tx6cuzcAYw%3D%3D",#ADHD #Productivity #TaskManagement #AI #ChatGPT #AssistiveTechnology #Automation #Brainstorming #IdeaGeneration #CreativeSolutions #Focus #AdminEfficiency #ProfessionalCommunication #EmergingTech #FutureOfWork #NeurodivergentSupport #TimeManagement #WorkplaceEfficiency #Innovation #Leadership #AItools #MentalHealth #Work,"Mental Health Support, Interpersonal Communication, Professional Development & Productivity",,"Professional Development & Productivity, Learning, Emotional Wellbeing",,"Mentions productivity, time management, or work-related organization. Indicates use of AI for understanding or processing information. Describes emotional grounding, structure, or non-judgmental support.",FALSE,FALSE,FALSE,FALSE,,,,"Sharing Hacks and Resources â€“ Provides or suggests tools, apps, or productivity strategies.",Positive,neutral (+0.07) Subjectivity: subjective,,"Why Positive?
+The post promotes an article with enthusiasm: “streamlines tasks,” “enhances ADHD productivity.” These are positive claims. Text2Data’s neutrality ignores tone.",
+019,"If you’ve ever had 1000 ideas a minute, forgotten what tab you opened, or hyperfocused your way into a new hobby at 2AM… this one’s for you!
+
+This is the hilarious, chaotic magic of living with ADHD and how AI has quietly become my favorite coping mechanism.
+
+✨ AI helps me stay organized (even when I’m not).
+✨ It doesn’t judge my rabbit holes.
+✨ And best of all, it keeps up with my brain.
+
+Swipe through if:
+✅ You’re neurodivergent
+✅ You’re curious about how AI fits into real life
+✅ You just want a laugh and a little solidarity
+
+Because executive dysfunction is real, but so is finding creative, tech-powered ways to thrive.
+
+I’d love to know how AI has helped you manage ADHD (or just life in general)?
+
+#ADHD #AItools #NeurodivergentLife #ChatGPT #Midjourney #Productivity #LifeWithADHD #ExecutiveFunction #DigitalSidekick #NeurospicyAndProud https://www.linkedin.com/feed/update/urn:li:activity:7315416017940160512?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7315416017940160512%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3BfdjUqFBySSm5Tx6cuzcAYw%3D%3D",#ADHD #AItools #NeurodivergentLife #ChatGPT #Midjourney #Productivity #LifeWithADHD #ExecutiveFunction #DigitalSidekick #NeurospicyAndProud,Professional Development & Productivity,,Professional Development & Productivity,,"Mentions productivity, time management, or work-related organization.",FALSE,TRUE,FALSE,FALSE,,Needs and Wants,,"Needs and Wants, Sharing Hacks and Resources â€“ Expresses needs or desires for tools, support, or improvements.; Provides or suggests tools, apps, or productivity strategies.",Positive,negative (-0.60)  Subjectivity: subjective,,"Why Positive?
+Despite references to chaos, the tone is light, humorous, and self-affirming. It ends with a call to share ideas and affirm community. Text2Data likely misread metaphors like “rabbit holes” as negative.",
+020,"How Generative AI Supports ADHD Brains 🚀🧠
+
+Living with ADHD means navigating executive dysfunction, time blindness, and focus challenges daily. But here’s the game-changer: Generative AI (like ChatGPT) can help! 🏆
+
+AI isn’t just a tool—it’s an external brain that helps break down overwhelming tasks, manage time, and stay on track. Here’s how:
+
+📝 1. Task Management & Breaking Overwhelm
+✔️ AI breaks down complex tasks into step-by-step actions.
+✔️ Prioritizes your to-do list based on urgency & importance.
+✔️ Bypasses ADHD paralysis by providing instant structure.
+
+⏳ 2. Time Management & Beating Time Blindness
+✔️ Helps estimate realistic time frames for tasks.
+✔️ Creates structured routines (like Pomodoro Technique).
+✔️ Sends reminders & nudges to stay on schedule.
+
+💡 3. Focus & Reducing Mental Load
+✔️ Summarizes long articles, meetings, or study materials.
+✔️ Generates quick brainstorming ideas when you’re stuck.
+✔️ Helps draft emails, social posts, or even work reports.
+
+🧘‍♂️ 4. Emotional Support & Motivation
+✔️ Offers non-judgmental encouragement when ADHD self-doubt kicks in.
+✔️ Provides social scripts to ease communication anxiety.
+✔️ Suggests mindfulness exercises to manage stress.
+
+🔗 Want to learn more? Check out this resource from ADDitude Magazine:
+📖 How AI Supports ADHD https://lnkd.in/d2qpxgcV
+
+🚀 ADHD + AI = Your Superpower! Who else is using AI to stay on track? Drop your thoughts below! 👇
+
+#ADHD #Neurodiversity #AIForGood #ChatGPT #ProductivityHacks #ExecutiveFunction #TimeManagement #FocusTools
+
+#ADHDAwareness #Neurodivergent #ExecutiveDysfunction #ADHDTips #MentalHealthMatters #NeurodiversityAtWork #ADHDLife #TimeManagement #ArtificialIntelligence #AIForGood #FutureOfWork #ChatGPTForProductivity #AIandMentalHealth #AIInnovation #ProductivityHacks #FocusTools #TaskManagement #BrainHacks #WorkSmarter #Mindfulness #Motivation #CareerGrowth #WorkplaceWellness #RemoteWork #Entrepreneurship #TechForGood","#ADHD #Neurodiversity #AIForGood #ChatGPT #ProductivityHacks #ExecutiveFunction #TimeManagement #FocusTools
+
+#ADHDAwareness #Neurodivergent #ExecutiveDysfunction #ADHDTips #MentalHealthMatters #NeurodiversityAtWork #ADHDLife #TimeManagement #ArtificialIntelligence #AIForGood #FutureOfWork #ChatGPTForProductivity #AIandMentalHealth #AIInnovation #ProductivityHacks #FocusTools #TaskManagement #BrainHacks #WorkSmarter #Mindfulness #Motivation #CareerGrowth #WorkplaceWellness #RemoteWork #Entrepreneurship #TechForGood","Emotional Wellbeing, Mental Health Support, Interpersonal Communication, Learning, Professional Development & Productivity",,"Professional Development & Productivity, Learning, Interpersonal Communication, Mental Health Support, Emotional Wellbeing",,"Mentions productivity, time management, or work-related organization. Indicates use of AI for understanding or processing information. References improving expression or preparing for professional/personal communication. Addresses emotional challenges or mental wellness support. Describes emotional grounding, structure, or non-judgmental support.",TRUE,TRUE,TRUE,FALSE,,"Challenges, Needs and Wants, Sharing Hacks and Resources",,"Challenges, Needs and Wants, Sharing Hacks and Resources â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Expresses needs or desires for tools, support, or improvements.; Provides or suggests tools, apps, or productivity strategies.",Mixed,negative (-0.46) Subjectivity: objective,,"Why Mixed?
+Covers both ADHD struggles (paralysis, time-blindness) and AI-supported solutions. Balanced, educational tone. Text2Data likely focused on “executive dysfunction” language without acknowledging resolution.",
+021,"🚀 Using ChatGPT to Overcome ADHD Overwhelm & Get Things Done
+If you have ADHD, you’ve probably experienced task paralysis, decision fatigue, and that frustrating cycle of procrastination. 😵‍💫 You know what needs to be done, but getting started feels impossible.
+What if you had a 24/7 thought partner to help you break through that overwhelm, simplify tasks, and even give you a little motivation boost?
+💡 That’s where ChatGPT comes in.
+In my latest ADHD Support Talk Radio episode, I dive into how AI can be a powerful tool for ADHD brains—not as a replacement for executive function, but as a support system to help you take action.
+🔥 In this episode, I cover:
+✔️ How ChatGPT can break down overwhelming tasks into manageable steps
+✔️ Using AI to summarize long emails and draft responses
+✔️ Fun ways to boost motivation and stay accountable
+✔️ How ChatGPT can help with focus, productivity, and organization
+
+If you’ve ever felt stuck, scattered, or overloaded, this episode is for you. 🎙️
+📌 Listen now: https://lnkd.in/eBwz22xC
+💬 Have you tried using ChatGPT for ADHD challenges? Let me know in the comments! 👇
+#ADHD #Neurodiversity #ChatGPT #AIforGood #ADHDProductivity #MentalHealthTech #ExecutiveFunction #ADHDLife #AIforADHD #TimeManagement #ProductivityHacks #OvercomeOverwhelm #AdultADHD #Focus #Motivation",#ADHD #Neurodiversity #ChatGPT #AIforGood #ADHDProductivity #MentalHealthTech #ExecutiveFunction #ADHDLife #AIforADHD #TimeManagement #ProductivityHacks #OvercomeOverwhelm #AdultADHD #Focus #Motivation,"Interpersonal Communication, Learning, Professional Development & Productivity",,"Professional Development & Productivity, Interpersonal Communication, Mental Health Support, Emotional Wellbeing",,"Mentions productivity, time management, or work-related organization. References improving expression or preparing for professional/personal communication. Addresses emotional challenges or mental wellness support. Describes emotional grounding, structure, or non-judgmental support.",TRUE,TRUE,TRUE,FALSE,,"Challenges, Needs and Wants, Sharing Hacks and Resources",,"Challenges, Needs and Wants, Sharing Hacks and Resources â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Expresses needs or desires for tools, support, or improvements.; Provides or suggests tools, apps, or productivity strategies.",Mixed,negative (-0.62)  Subjectivity: subjective,,"Why Mixed?
+Starts with distress (“task paralysis”), ends with empowerment. It presents AI as “support, not replacement,” which shows appreciation but tempered optimism. Text2Data scored down due to early frustration wording.",
+022,"ChatGPT is a game-changer for ADHD productivity.
+Most people don’t realize how powerful AI can be for focus, organization, and motivation.
+Here are must-try prompts to make life easier:
+1/ Task Breakdown Generator
+Break down this overwhelming task: [task description] into micro-steps that each take less than 5 minutes to complete. Make each step concrete and actionable.
+2/ Time-Chunking Scheduler
+Generate a flexible schedule that breaks my day into focused work sessions (e.g., 25-minute Pomodoro cycles) interspersed with brief, energizing breaks. Ensure each segment is ADHD-friendly by alternating between deep focus and quick resets.
+3/ Mindful Breaks Assistant
+Create a list of short, mindful break activities designed to refresh my ADHD brain. Include options that are engaging yet calming, each taking less than 5 minutes, so I can quickly recharge and maintain momentum.
+4/ Procrastination Buster
+Develop a step-by-step action plan to overcome procrastination for tasks I’ve been avoiding. Break the process into tiny, immediate actions with built-in rewards and accountability checkpoints that align with my interests.
+5/ Dopamine-Friendly Scheduler 
+Reorganize these tasks [list tasks] into a schedule that alternates between high-interest and low-interest activities to maintain my motivation throughout the day.
+6/ Working Memory Assistant
+Create a customized system to track and remember my [commitments/ideas/information] that requires minimal maintenance and provides clear visual triggers.
+7/ Focus Environment Designer
+Design an optimal working environment for my ADHD brain to complete [specific task], including physical setup, time blocking, and strategies to minimize distractions.
+That's a wrap!
+Found this helpful? Don’t forget to like, comment, and repost.
+🎁 Bonus:
+Stay ahead in the AI revolution with my newsletter!
+Join 22,000 readers to get the latest AI insights, tools, tutorials, and guides.
+Subscribe for free: https://lnkd.in/gqE_AmSz
+#AI #ChatGPT #Productivity #AIInsights #cheatsheet #adhd",#AI #ChatGPT #Productivity #AIInsights #cheatsheet #adhd,Professional Development & Productivity,,"Professional Development & Productivity, Learning, Mental Health Support, Emotional Wellbeing",,"Mentions productivity, time management, or work-related organization. Indicates use of AI for understanding or processing information. Addresses emotional challenges or mental wellness support. Describes emotional grounding, structure, or non-judgmental support.",TRUE,TRUE,TRUE,FALSE,,"Challenges, Needs and Wants, Sharing Hacks and Resources",,"Sharing Hacks and Resources â€“ Provides or suggests tools, apps, or productivity strategies.",Mixed, positive (+0.75)  Subjectivity: subjective,,"Why Positive?
+Uplifting announcement about ChatGPT workshops. The tone is promotional and enthusiastic, even if emotionally light. Negative Text2Data score likely triggered by non-relevant sentiment keywords.",
+023,"No.7 | Get it Done with ChatGPT Workshops 🚀
+
+Are you ready to boost your productivity levels and revolutionize the way you work? This week, I'm thrilled to announce a series of workshops all about leveraging the AI tool, ChatGPT.
+
+From copywriting, brainstorming, to advising and beyond, these workshops will show you how to use ChatGPT for a wide range of tasks. Want to learn more? Dive into this week's edition of my LinkedIn newsletter for all the details and how to register.
+
+Don't miss out on this opportunity to harness the power of AI and become the creative CEO of your life! 
+
+#ChatGPT #AI #Productivity #ADHD #Workshops https://www.linkedin.com/feed/update/urn:li:activity:7093282569714024448?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7093282569714024448%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3BsiLnwsCwQuiXblMjm2x79g%3D%3D",#ChatGPT #AI #Productivity #ADHD #Workshops,"Learning, Professional Development & Productivity",,"Professional Development & Productivity, Learning",,"Mentions productivity, time management, or work-related organization. Indicates use of AI for understanding or processing information.",FALSE,TRUE,FALSE,FALSE,,Needs and Wants,,"Needs and Wants, Sharing Hacks and Resources â€“ Expresses needs or desires for tools, support, or improvements.; Provides or suggests tools, apps, or productivity strategies.",Positive,negative (-0.64)  Subjectivity: subjective ,,"Positive is correct
+
+Justification: The post promotes ChatGPT workshops with an uplifting tone, inviting others to join in. There's no negative language or critique present—Text2Data may have misclassified it due to the word ""thrilled"" or misunderstanding the term “opportunity” in event contexts.",
+024,"🌍 Happy #WorldMentalHealthDay!
+
+Managing ADHD in the workplace can be overwhelming, but my journey has shown me that it doesn't have to be. With transformative tools like Copilot, I’ve turned chaos into clarity—automating tasks and focusing on what truly matters. 
+
+Join me in challenging the stigma around mental health and discover how technology can empower us to thrive! Click below to read my full blog post! https://www.linkedin.com/feed/update/urn:li:activity:7250105831264780289?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7250105831264780289%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3BsiLnwsCwQuiXblMjm2x79g%3D%3D
+
+#adhd #mentalhealthmatters #copilot #microsoftcopilot #AI #artificialintelligence #microsoft #mentalhealthawareness #adhdtools #adultswithadhd #microsoftdynamics365 #itconsultant #ADHDSupport #Neurodiversity #ADHDSuccess #ADHDStruggles #ADHDAcceptance #AIProductivity #WorkSmarter #TechForGood #AIAssistance #FutureOfWork #NeurodivergentTech #AIAndADHD #EmpoweringNeurodiversity #SmartSolutionsForADHD #microsoftuk #delawareuk Microsoft",#adhd #mentalhealthmatters #copilot #microsoftcopilot #AI #artificialintelligence #microsoft #mentalhealthawareness #adhdtools #adultswithadhd #microsoftdynamics365 #itconsultant #ADHDSupport #Neurodiversity #ADHDSuccess #ADHDStruggles #ADHDAcceptance #AIProductivity #WorkSmarter #TechForGood #AIAssistance #FutureOfWork #NeurodivergentTech #AIAndADHD #EmpoweringNeurodiversity #SmartSolutionsForADHD #microsoftuk #delawareuk Microsoft,"Mental Health Support, Professional Development & Productivity",,"Professional Development & Productivity, Learning, Mental Health Support, Emotional Wellbeing",,"Mentions productivity, time management, or work-related organization. Indicates use of AI for understanding or processing information. Addresses emotional challenges or mental wellness support. Describes emotional grounding, structure, or non-judgmental support.",TRUE,FALSE,FALSE,FALSE,,Challenges,,"Challenges, Sharing Hacks and Resources â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Provides or suggests tools, apps, or productivity strategies.",Mixed,positive (+1.00) Subjectivity: subjective,,"Mixed is correct
+
+Justification: While the author shares a transformative personal win with Copilot, the framing of mental health stigma and “overwhelm” in the workplace anchors the post in both hope and vulnerability. A nuanced emotional arc is visible—mixed reflects that duality.",
+025,"How AI tools like ChatGPT can combat ADHD paralysis
+
+ChatGPT, or tools like it, becoming a part of that mix, to help people like me complete routine tasks that can become burdensome or overwhelming, and to overcome paralysis by generating starting points for creative thought
+
+#ChatGPT #OpenAI #chatbot #GenerativeAI #artificialintelligence #AI #technology #tech #psychology #ADHD #productivity #creativity https://www.linkedin.com/feed/update/urn:li:activity:7060297642811031552?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7060297642811031552%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3BsiLnwsCwQuiXblMjm2x79g%3D%3D",#ChatGPT #OpenAI #chatbot #GenerativeAI #artificialintelligence #AI #technology #tech #psychology #ADHD #productivity #creativity,Professional Development & Productivity,,"Professional Development & Productivity, Mental Health Support",,"Mentions productivity, time management, or work-related organization. Addresses emotional challenges or mental wellness support.",TRUE,FALSE,TRUE,FALSE,,"Challenges, Sharing Hacks and Resources",,"Sharing Hacks and Resources â€“ Provides or suggests tools, apps, or productivity strategies.",Mixed,positive (+0.51)  Subjectivity: subjective,,"Mixed is correct
+
+Justification: Although the tone is ultimately supportive of AI, it starts by describing tasks as “burdensome” and refers to ADHD paralysis. There’s a tension between difficulty and solution, which is characteristic of a mixed emotional expression.",
+026,"🧠 Has OpenAI accidentally just fixed a huge ADHD challenge for me??
+ADHD sometimes feels like your brain has 50 tabs open. A few are relevant, three are playing music, and half are ridiculous questions from random thoughts (plus that ONE million-pound idea hidden in the back!).
+This usually leads to endless Google rabbit holes that derail my focus. But ever since I started using OpenAI’s #ChatGPT4o, I’ve been amazed at how much my concentration and focus have improved. Just being able to chat with AI and unload these questions has made a huge difference!
+Now, instead of getting lost on the internet, I just ask Watson (that's what he named himself) and we can chat back and forwards about it. 
+Here are some of the todays pickings:
+ • “Will AI take over the world? (Don’t worry, they promised me they won’t) 🤖🌍”
+ • “Which living thing has the most deadly poison? 🐍☠️”
+ • “How many types of panda are there? 🐼🖤”
+I'm not sure if this was your intended pupose, but HUGE thanks to OpenAI, ChatGPT, and Sam Altman for this fantastic tool.  
+If any fellow ADHDers haven’t tried it yet, do yourself a favour and give it a go!
+(I'm also available for beta testing 😜)
+#Productivity #AI #ADHD #WorkSmarter #TechInnovation #OpenAI #ChatGPT",#Productivity #AI #ADHD #WorkSmarter #TechInnovation #OpenAI #ChatGPT,Professional Development & Productivity,,Professional Development & Productivity,,"Mentions productivity, time management, or work-related organization.",FALSE,FALSE,FALSE,FALSE,,,,"Challenges, Concerns â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Mentions worries or possible negative effects of AI tools.",Positive,negative (-0.61) Subjectivity: subjective ,,"Why Positive?
+Though chaotic in description, tone is excited and grateful: “my concentration and focus have improved,” “thanks OpenAI!” It’s playful, celebratory, not distressed.",
+027,"The integration of ChatGPT into the Sean Chatman Method revolutionizes the way individuals approach personal growth and productivity. With its adaptive capabilities, empathetic responses, and valuable insights, ChatGPT becomes an integral part of users' journey toward work-life balance, mindfulness, and success. #work #success #growth #productivity #mindfulness #neurodiversity #chatgpt #openai #elonmusk #linkedin #innovation #business #wealth #wealthcreation #wealthmanagement https://www.linkedin.com/feed/update/urn:li:activity:7084394371634118656?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7084394371634118656%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3BsiLnwsCwQuiXblMjm2x79g%3D%3D",#work #success #growth #productivity #mindfulness #neurodiversity #chatgpt #openai #elonmusk #linkedin #innovation #business #wealth #wealthcreation #wealthmanagement ,Professional Development & Productivity,,Professional Development & Productivity,,"Mentions productivity, time management, or work-related organization.",FALSE,FALSE,FALSE,FALSE,,,,"Sharing Hacks and Resources â€“ Provides or suggests tools, apps, or productivity strategies.",Neutral,positive (+0.67)  Subjectivity: subjective ,,"Neutral is correct
+
+Justification: This post introduces a method without personal narrative, excitement, or emotional engagement. It describes ChatGPT’s integration into a system neutrally, focusing on functional description, not praise or critique—neutral fits best.",
+028,"In this article, Laura Germishuys (she, her) explores how AI can support people managing disabilities, chronic illness, or ADHD by conserving mental and physical energy. Spoon theory, created Christine Miserandino, uses ""spoons"" to represent limited energy. Each task uses up a spoon, and AI can help reduce this load by streamlining tasks and offering cognitive support.
+For those with ADHD (like myself), AI tools like ChatGPT can help break down tasks, create workflows, provide creative solutions, such that we can spend more time doing what we do best. AI can act as an assistive technology, extending our abilities and preserving energy for what matters most.
+#GenerativeAI #SpoonTheory #AssistiveTechnology #ADHD https://www.linkedin.com/feed/update/urn:li:activity:7244345691962048513?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7244345691962048513%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3BsiLnwsCwQuiXblMjm2x79g%3D%3D",#GenerativeAI #SpoonTheory #AssistiveTechnology #ADHD,Professional Development & Productivity,,"Professional Development & Productivity, Emotional Wellbeing",,"Mentions productivity, time management, or work-related organization. Describes emotional grounding, structure, or non-judgmental support.",FALSE,FALSE,FALSE,FALSE,,,,"Sharing Hacks and Resources â€“ Provides or suggests tools, apps, or productivity strategies.",Positive,positive (+0.44) Subjectivity: subjective,,"The post references spoon theory to frame how AI conserves energy for people with ADHD — portraying AI as a supportive extension of human ability. The tone is empowering and appreciative, and both tools accurately interpreted this contextual celebration of assistive tech as positive.
+",
+029,"ADHD folks, ever feel like your brilliant ideas get lost in a whirlwind of words? 💬 Generative AI tools like Copilot and Gemini could be your new communication superpower! Check out my latest blog post on how AI can help you organize your thoughts, write with clarity, and even practice those difficult conversations. #ADHD #communication #GenerativeAI https://www.linkedin.com/feed/update/urn:li:activity:7171221971844710400?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7171221971844710400%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3BsiLnwsCwQuiXblMjm2x79g%3D%3D",#ADHD #communication #GenerativeAI,"Interpersonal Communication, Professional Development & Productivity",,"Professional Development & Productivity, Interpersonal Communication",,"Mentions productivity, time management, or work-related organization. References improving expression or preparing for professional/personal communication.",TRUE,FALSE,FALSE,FALSE,,Challenges,,"Sharing Hacks and Resources â€“ Provides or suggests tools, apps, or productivity strategies.",Positive,neutral (+0.16) Subjectivity: subjective,,"Why Positive?
+Framed as a communication “superpower” for ADHD. Tone is affirming and curious. Text2Data likely doesn’t detect framing as empowering.",
+030,"Generative AI is revolutionizing productivity, especially for people with ADHD! From overcoming procrastination to sparking creativity, AI tools like ChatGPT are proving to be invaluable allies.
+Read our latest blog to discover how AI is helping those with ADHD unlock their potential and tackle challenges in unique ways. 🌟
+We’d love to hear your thoughts—share your views in the comments! ⬇️
+#ADHD #Productivity #GenerativeAI #Innovation #AI #Creativity #Technology #MentalHealth
+https://lnkd.in/gxguTnkK",#ADHD #Productivity #GenerativeAI #Innovation #AI #Creativity #Technology #MentalHealth,Professional Development & Productivity,,"Professional Development & Productivity, Learning",,"Mentions productivity, time management, or work-related organization. Indicates use of AI for understanding or processing information.",FALSE,FALSE,FALSE,FALSE,,,,"Challenges, Sharing Hacks and Resources â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Provides or suggests tools, apps, or productivity strategies.",Positive, positive (+0.54) Subjectivity: objective,,"The post promotes the transformative power of AI for people with ADHD, using strong phrases like “revolutionizing productivity,” and “unlock their potential.” There’s no indication of doubt, critique, or frustration. The promotional and motivational tone made this a clear positive post for both tools.",
+031,"ADHD LLM : Part 1: Idea Generation 🤔
+Let’s explore how the ADHD brain contributes to idea generation. 🧠
+1️⃣Divergent Thinking :
+Individuals with ADHD often excel in divergent thinking—the ability to generate multiple ideas, solutions, or perspectives.
+Their minds make unconventional connections, leading to creative insights.
+This divergent thinking can be a valuable asset for brainstorming, problem-solving, and innovation.
+2️⃣Hyperfocus and Intensity :
+When someone with ADHD is passionate about a topic, they can enter a state of hyperfocus. 
+During these periods, their attention narrows intensely, allowing them to explore ideas deeply.
+Hyperfocus can lead to novel and innovative ideas.
+3️⃣Unfiltered Thoughts :
+ADHD brains have less inhibition, meaning thoughts flow freely without filtering. While this can be overwhelming, it also allows for unbridled creativity.
+They're less likely to dismiss seemingly unrelated or ""crazy"" ideas, which can lead to breakthroughs.
+4️⃣Associative Thinking :
+ADHD individuals often connect seemingly unrelated concepts. Their associative thinking can lead to unique combinations and fresh perspectives.
+This ability to see patterns and relationships fuels idea generation.
+5️⃣Impulsivity and Risk-Taking :
+Impulsivity can drive experimentation and risk-taking. They're more likely to try unconventional approaches, leading to innovative ideas.
+However, balancing impulsivity with practicality is crucial.
+7️⃣Embracing Neurodiversity :
+Organizations benefit from neurodiversity. Including ADHD thinkers fosters a richer idea pool.
+Encourage an environment where diverse minds collaborate and appreciate each other's strengths.
+In summary, the ADHD brain's unique thinking style—marked by creativity, intensity, and unfiltered ideas—contributes significantly to idea generation. 
+#LLM
+#LanguageModels 
+#ADHD
+#Innovation 
+#entrepreneurship 
+#AGI
+#nlp
+#DeepLearning","#LLM
+#LanguageModels 
+#ADHD
+#Innovation 
+#entrepreneurship 
+#AGI
+#nlp
+#DeepLearning","Learning, Professional Development & Productivity",,"Learning, Mental Health Support",,Indicates use of AI for understanding or processing information. Addresses emotional challenges or mental wellness support.,TRUE,FALSE,TRUE,TRUE,,"Challenges, Sharing Hacks and Resources, Concerns",,"Challenges, Concerns â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Mentions worries or possible negative effects of AI tools.",Mixed,neutral (+0.25) Subjectivity: subjective,,"Why Mixed?
+The post praises creativity but acknowledges intense difficulty — impulsivity, scattered thoughts. This balance of gift + struggle defines “mixed.” Text2Data misses that nuance.",
+032,"Feeling unsure about your job hunt? Large language models (LLMs) can help:
+
+Tailored Feedback 📄
+Brainstorming Partner 💡
+Interview Practice 🎤
+Organizational Aid 🗂️
+Stress Reduction 😌
+
+Discover how ChatGPT and other LLMs can transform your job search. Want to learn more? Check out my latest article on 
+#ADHD and the #jobhunt! 👇
+https://lnkd.in/ewFATryk
+
+#AI #CareerAdvice #LLM","#ADHD  #jobhunt!
+#AI #CareerAdvice #LLM","Learning, Professional Development & Productivity",,"Learning, Mental Health Support",,Indicates use of AI for understanding or processing information. Addresses emotional challenges or mental wellness support.,FALSE,TRUE,FALSE,FALSE,,Needs and Wants,,"Needs and Wants â€“ Expresses needs or desires for tools, support, or improvements.",Positive, negative (-0.61) Subjectivity: unknown,,"Why Positive?
+Presents LLMs as helpful tools — “reduce stress,” “organizational aid.” Tone is supportive and practical. Text2Data likely flagged “struggling” language out of context.",
+033,"🌟 How Copilot Lightens The Mental Load 🌟
+
+Living with ADHD has always been a challenge, but Copilot has honestly been a game-changer for me.
+- Copilot manages my tasks and deadlines. It sets reminders, creates to-do lists, and priorities tasks, reducing the cognitive load and helping me stay on track.
+- During meetings I struggle with remembering verbal information or instructions, having Copilot take notes, highlighting key points, and summarising discussions for me is HUGE. 
+- Meal planning, deciding what I want to eat everyday, FOREVER is the biggest challenge. I asked Copilot for recipes that are high in protein and can be cooked in one pot and boom, a weeks meal planning done. (I just wish it could also cook it for me). 
+- Cycle tracking, my ADHD girlies would know how much your cycle can effect you. It keeps me updated on my hormone fluctuations, how it might effect my mood, my symptoms, my dopamine levels, how to manage it, how to structure my work and my life around it.
+
+Copilot also helped me write this post! 😂
+I am in love, and I will continue to shout about it 
+
+#ADHD #Productivity #WorkLifeBalance #TechForGood #ThankYouCopilot #Copilot #AI",#ADHD #Productivity #WorkLifeBalance #TechForGood #ThankYouCopilot #Copilot #AI,Professional Development & Productivity,,"Professional Development & Productivity, Emotional Wellbeing",,"Mentions productivity, time management, or work-related organization. Describes emotional grounding, structure, or non-judgmental support.",TRUE,TRUE,FALSE,FALSE,,"Challenges, Needs and Wants",,"Challenges, Needs and Wants â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Expresses needs or desires for tools, support, or improvements.",Mixed, positive (+0.53),,"Why Mixed?
+Celebratory but reveals deeper mental load and sensory challenges: “deciding what I want to eat… forever is the biggest challenge.” Ends upbeat, but with high cognitive tension.
+",
+034,"🧠 From Chaos to Clarity: How People with ADHD Are Using AI to Speak Their Genius Out Loud
+This isn’t another productivity hack.
+It’s a game-changer for neurodivergent minds.
+If you've ever struggled to get your thoughts organized, finish a project, or clearly communicate an idea — especially with ADHD — this issue of Wired for Growth is for you.
+Inside: 
+⚡ Why ADHD isn’t a weakness — it’s untapped brilliance
+🤖 How ChatGPT acts like a 24/7 thought partner
+🛠️ Real-world strategies to turn ideas into impact
+🎯 The mindset shift that changes everything
+✅ Read the full article below https://www.linkedin.com/feed/update/urn:li:activity:7314161123732115457?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7314161123732115457%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3BsiLnwsCwQuiXblMjm2x79g%3D%3D
+🔔 Subscribe to Wired for Growth for more high-signal insights on AI, marketing, and clarity in business
+#WiredForGrowth #ADHD #ChatGPT #Neurodiversity #AIForGood #DigitalTools #Communication #SmallBusiness #Productivity #GrowthMindset",#WiredForGrowth #ADHD #ChatGPT #Neurodiversity #AIForGood #DigitalTools #Communication #SmallBusiness #Productivity #GrowthMindset,"Interpersonal Communication, Professional Development & Productivity",,"Professional Development & Productivity, Learning, Interpersonal Communication",,"Mentions productivity, time management, or work-related organization. Indicates use of AI for understanding or processing information. References improving expression or preparing for professional/personal communication.",TRUE,FALSE,TRUE,FALSE,,"Challenges, Sharing Hacks and Resources",,"Challenges, Sharing Hacks and Resources â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Provides or suggests tools, apps, or productivity strategies.",Mixed,positive (+0.75) ,,"Why Mixed?
+Framed around ADHD difficulties and AI’s role as a “thought partner.” Tone is hopeful, but layered with pain. Text2Data seems misled by buzzwords like “game-changer.”
+",
+035,"📚 Enhance your reading experience with the ADHD Reading Helper Chrome Extension! 🚀
+Are you looking to improve text legibility and make online content more accessible? Introducing the ADHD Reading Helper, a specialized Chrome extension designed to enhance the reading experience for individuals with ADHD and other neurodivergent conditions. This is the first-ever Chrome extension I've ever created, and it was made possible with the help of #chatgpt #chatgptprompts #chatgptplugins 
+
+Discover how the extension works, its benefits, and how it can help you easily navigate the digital world in our latest blog post. 📖✨
+
+https://lnkd.in/gUTiCf3N
+
+#adhd #ADHDReadingHelper #Accessibility #ChromeExtension #ReadingExperience #Neurodiversity #productivity ",#adhd #ADHDReadingHelper #Accessibility #ChromeExtension #ReadingExperience #Neurodiversity #productivity ,"Learning, Professional Development & Productivity",,"Professional Development & Productivity, Learning",,"Mentions productivity, time management, or work-related organization. Indicates use of AI for understanding or processing information.",FALSE,FALSE,TRUE,FALSE,,Sharing Hacks and Resources,,None â€“ No clear meta insight indicators.,Positive,neutral (+0.13) ,,"This is an enthusiastic showcase of an AI-enabled reading tool, filled with excitement and pride (""first-ever Chrome extension,"" ✨ emojis, gratitude). The LLM reads it as Positive because of the celebratory tone, which Text2Data likely missed due to its rule-based bias toward neutrality in informational contexts.",
+036,"When ChatGPT was first released, I was admittedly sceptical. As someone who is autistic, I often feel anxious about new tools and technologies, and if I’m honest, I’ve always been a bit resistant to change. However, over the past year, ChatGPT has become more than just a useful tool—it’s been a true game-changer in my life.
+
+Living with ADHD means my thoughts are often chaotic, jumping from one thing to the next, making it difficult to organise my day or complete tasks. ChatGPT has become my go-to for helping to arrange that chaos. It helps me break down overwhelming projects into smaller, manageable tasks and plan my day around time blindness. It provides a sense of structure when I’m struggling to see the bigger picture, making it easier for me to stay on track.
+
+One of the most significant ways it has helped is by reducing the effects of Pathological Demand Avoidance (PDA), something that can make even small tasks feel like an impossible burden. By using ChatGPT to write emails or draft responses, I’ve been able to reduce the mental load and resistance that comes with tasks that would otherwise cause anxiety. It helps me get started when inertia feels like a wall I can’t get past. The ability to type out a prompt and get immediate, clear responses has drastically reduced the friction I experience in everyday tasks.
+
+For those of us who are neurodivergent, these kinds of struggles are all too familiar. But the beauty of ChatGPT is that it doesn’t just “assist”—it adapts to our unique ways of thinking. Whether it’s helping with:
+
+🧠Organising thoughts that feel scattered
+🧠Managing time and reducing the impact of time blindness
+🧠Breaking down tasks into smaller, achievable goals
+🧠Drafting emails or other communications, reducing anxiety and demand avoidance
+🧠Overcoming inertia and getting started on tasks that feel impossible
+🧠Offering suggestions when we feel stuck or overwhelmed
+
+It’s a powerful tool for navigating a world that often feels built for neurotypical minds.
+ ChatGPT acts as a resource to help us thrive in this ever-challenging world, and that’s why it has been so impactful for me personally.
+
+I hope more neurodivergent individuals feel empowered to explore AI tools like this. It’s okay to be sceptical at first—I was too. But for me, it has truly been life-changing, and I believe it can help so many others who face similar challenges.
+
+Don’t shy away from trying out a tool that could make a difference in your life—you never know how it might help! 💡✨
+
+#BehindTheSmiles #AI #Neurodiversity #ADHD #Autism #Productivity #PathologicalDemandAvoidance #TimeBlindness #ChatGPT #AIForGood #Neurodivergent",#BehindTheSmiles #AI #Neurodiversity #ADHD #Autism #Productivity #PathologicalDemandAvoidance #TimeBlindness #ChatGPT #AIForGood #Neurodivergent,"Mental Health Support, Interpersonal Communication, Professional Development & Productivity",,"Professional Development & Productivity, Interpersonal Communication, Mental Health Support, Emotional Wellbeing",,"Mentions productivity, time management, or work-related organization. References improving expression or preparing for professional/personal communication. Addresses emotional challenges or mental wellness support. Describes emotional grounding, structure, or non-judgmental support.",TRUE,FALSE,TRUE,FALSE,,"Challenges, Sharing Hacks and Resources",,"Challenges, Sharing Hacks and Resources â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Provides or suggests tools, apps, or productivity strategies.",Mixed,neutral (+0.16)  negative (-0.55),,"Why Mixed?
+Openly discusses severe struggles (PDA, anxiety), but celebrates positive AI impact. There’s warmth and insight. Text2Data saw only the first half.",
+037,"The neurodiverse brain has unique strengths, but executive functioning challenges—like organizing, planning, and prioritizing—can sometimes get in the way. Thankfully, tools like ChatGPT can serve as powerful allies to support neurodiverse individuals in their daily lives. Here are 5 creative ways to use ChatGPT to enhance executive functioning:
+
+1️⃣ Task Prioritization:
+Struggling to decide what to tackle first? Ask ChatGPT to help you organize your to-do list by importance and urgency. For example:
+""Here are my tasks for the day. Can you prioritize them based on deadlines and importance?""
+
+2️⃣ Schedule Management:
+Turn ChatGPT into a scheduling assistant. Provide it with your appointments and tasks, and let it create a structured daily or weekly plan to keep you on track.
+
+3️⃣ Brainstorming and Problem-Solving:
+When overwhelmed by choices or stuck on a project, ChatGPT can help generate ideas or break down complex problems into manageable steps.
+
+4️⃣ Reminders and Routines:
+Use ChatGPT to build morning or evening routines. Ask for step-by-step guidance or prompts for consistent habits, like this:
+""Help me create a simple 5-step morning routine to start my day productively.""
+
+5️⃣ Time Estimation Practice:
+If time blindness is a challenge, ask ChatGPT to estimate how long tasks should take or guide you in creating realistic timelines. It can help you better understand task durations over time.
+
+✨ The beauty of ChatGPT is its adaptability—it’s like having a personalized executive functioning coach available 24/7. With neurodiverse-friendly tools like this, we can unlock new ways to work smarter, not harder.
+
+💬 What creative ways have you used ChatGPT to support productivity or executive functioning? Let’s share ideas and inspire one another!
+
+#Neurodiversity #ExecutiveFunctioning #Productivity #ChatGPT #Innovation #Inclusion",#Neurodiversity #ExecutiveFunctioning #Productivity #ChatGPT #Innovation #Inclusion,"Learning, Professional Development & Productivity",,"Professional Development & Productivity, Mental Health Support, Emotional Wellbeing",,"Mentions productivity, time management, or work-related organization. Addresses emotional challenges or mental wellness support. Describes emotional grounding, structure, or non-judgmental support.",TRUE,FALSE,TRUE,FALSE,,"Challenges, Sharing Hacks and Resources",,"Challenges, Sharing Hacks and Resources â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Provides or suggests tools, apps, or productivity strategies.",Mixed,neutral (+0.14) ,,"Why Mixed?
+Lists ways ChatGPT helps — but grounded in significant executive functioning challenges. Both difficulty and support are central. Not purely neutral.",
+038,"I'm developing an AI software-as-service platform for neurodiverse individuals to help with productivity and organising and expand on their thoughts with Artificial Intelligence. 
+
+I've launched the waiting list here at haphazard.ai as a build the app, I've got an early launch MVP - If you or anyone you know might be interested please take a look or send it their way.
+
+Also, working in a chat bot at chat.haphazard.ai.
+
+Many thanks! 
+
+
+#neurodiversity #neurodivergent #ADHD #dyslexic #dyslexia #Productivity #AI #SaaS #app #Startup #Alpha #Netlify Netlify #OpenDyslexic #NotMedicalAdvice #JoinWaitingList #Haphazard #artificialintelligence #ChatGPT ChatGPT https://www.linkedin.com/feed/update/urn:li:activity:7307439586916397056?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7307439586916397056%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3BsiLnwsCwQuiXblMjm2x79g%3D%3D",#neurodiversity #neurodivergent #ADHD #dyslexic #dyslexia #Productivity #AI #SaaS #app #Startup #Alpha #Netlify Netlify #OpenDyslexic #NotMedicalAdvice #JoinWaitingList #Haphazard #artificialintelligence #ChatGPT ChatGPT,Professional Development & Productivity,,Professional Development & Productivity,,"Mentions productivity, time management, or work-related organization.",FALSE,FALSE,FALSE,FALSE,,,,None â€“ No clear meta insight indicators.,Positive, neutral (+0.16) ,,"Why Positive?
+Optimistic product pitch. Tone is supportive, excited. Words like “interested,” “waitlist,” “help with productivity” suggest enthusiasm.",
+039,"If you are a neurodiverse professional, or you know someone who is, I highly recommend you to check out Julie’s article. 
+
+AI has been a game-changer for many. Let’s leverage technology to make work accessible and equitable for everyone.
+
+Please share this article with your connections and spread the word about ChatGPT's benefits for neurodiverse individuals. 
+
+Your stories and feedback are also welcome. Together, we can create a more inclusive and productive future.
+
+Great insights, Julie DeMent
+
+#neurodiversity #inclusionatwork #AIforaccessibility #productivity #ChatGPT #equity #diversityandinclusion #inclusiveworkplace #accessibilityforall #futureofwork https://www.linkedin.com/feed/update/urn:li:activity:7149074876153147392?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7149074876153147392%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3BsiLnwsCwQuiXblMjm2x79g%3D%3D",#neurodiversity #inclusionatwork #AIforaccessibility #productivity #ChatGPT #equity #diversityandinclusion #inclusiveworkplace #accessibilityforall #futureofwork,Professional Development & Productivity,,"Professional Development & Productivity, Learning",,"Mentions productivity, time management, or work-related organization. Indicates use of AI for understanding or processing information.",FALSE,FALSE,FALSE,FALSE,,,,"Sharing Hacks and Resources â€“ Provides or suggests tools, apps, or productivity strategies.",Positive, neutral (+0.16) ,,"Why Positive?
+While the post references someone else's article, it expresses strong support, uses uplifting calls to action, and emphasizes community empowerment (“Let’s create a more inclusive future”). These verbal cues imply emotional investment. Hence, Positive from the LLM, despite Text2Data’s neutral score.",
+040,"AI is the assistive technology that I've always dreamed of. 🤩 
+
+It's an exciting time to be alive! 🚀 
+
+#AI #ChatGPT #Neurodiversity #Technology #Accessibility #ActuallyAutistic #Autism #ADHD #ExecutiveFunction #PKM #Productivity #Neuroaccessibility #Disability #TheFutureisNow",#AI #ChatGPT #Neurodiversity #Technology #Accessibility #ActuallyAutistic #Autism #ADHD #ExecutiveFunction #PKM #Productivity #Neuroaccessibility #Disability #TheFutureisNow,Professional Development & Productivity,,Professional Development & Productivity,,"Mentions productivity, time management, or work-related organization.",FALSE,FALSE,FALSE,FALSE,,,,None â€“ No clear meta insight indicators.,Neutral,positive (+0.54) ,,"Why Neutral?
+Short, exclamatory, vague. “Exciting time to be alive!” has no real emotional narrative. LLM marked it neutral due to lack of detail.",
+041,"For some ADHD individuals, the #workplace can feel like a battlefield. The constant barrage of stimuli, the pressure to focus & the internal struggle to prioritise tasks can lead to a debilitating state of exhaustion. This is more than a feeling of being overwhelmed; it's a genuine neurological experience of being pulled and tugged in countless directions, leaving the individual exhausted. This constant mental tug-of-war results in significant cognitive fatigue, impacting #productivity,self-esteem & overall well-being.
+Simple Strategies to Combat #ADHD Brain Strain at Work:
+Create a Structured Environment:
+🔹Time Blocking: Schedule specific blocks of time for different tasks, including breaks. This helps create a sense of structure & predictability. 
+🔹 Minimise Distractions: utilise noise-canceling headphones & quiet spaces, close unnecessary tabs and notifications.
+🔹Organise Your #Workspace: A clean and organised workspace can reduce visual distractions & promote a sense of calm. 
+Break Down Tasks and Prioritise:
+🔹 Break large projects into smaller more manageable steps. 
+🔹 Use methods like the Eisenhower Matrix (urgent/important) to prioritise tasks & focus on what matters most. 
+🔹 Visual reminders can help stay on track & reduce the mental load of remembering everything. 
+Implement Time Management Strategies:
+🔹 The Pomodoro Technique: Work in bursts of 25 minutes, followed by short breaks. 
+🔹 Set Realistic Deadlines: Avoid overcommitting & allow for buffer time. 
+🔹 Use Time-Tracking Apps: These #tools can help visualise how time is spent and identify areas for improvement. 
+Manage Sensory Overload:
+🔹 Take Regular Breaks: Step away from your desk to stretch, walk, or simply breathe. 
+🔹 Sensory Tools: Use fidget toys or other sensory tools to provide tactile stimulation & reduce restlessness.
+🔹 Mindfulness and Meditation: Practice mindfulness techniques to calm the mind & reduce #stress.
+Communicate and Collaborate:
+🔹 Open Communication: Talk to your manager about what strategies you find helpful.
+🔹 Delegate When Possible: Don't be afraid to ask for help or delegate tasks when appropriate.
+
+Remember, small changes can make a big difference in reducing mental fatigue & unlocking your full potential. What #strategies have you found work best for you? Please comment below.
+This visual was created by Truly_Tish_ADHD 7 shared via their #instagram account. 
+NeuroEdge
+#Inclusive #InclusionAndDiversity #Inclusion #NeurodiversityInBusiness #Awareness #DEI #Accessibility #Equity #Neurodiversity #CapacityBuilding #UnconciousBias #FutureOfWork #InclusiveLeadership #Workforce #InclusiveWorkplace #Neurodivergent #RepresentationMatters #timemanagement #NeurodiversityAtWork #DiversityAndInclusion #DiversityEquityInclusion #InclusionAndDiversity #InclusiveCulture #NeuroEdge #deadlines #OrganisationalCulture #neurodiverse #KateHalpin #MentalHealth #Diversity #communication #coaching #training #anxiety #depression #belonging",#Inclusive #InclusionAndDiversity #Inclusion #NeurodiversityInBusiness #Awareness #DEI #Accessibility #Equity #Neurodiversity #CapacityBuilding #UnconciousBias #FutureOfWork #InclusiveLeadership #Workforce #InclusiveWorkplace #Neurodivergent #RepresentationMatters #timemanagement #NeurodiversityAtWork #DiversityAndInclusion #DiversityEquityInclusion #InclusionAndDiversity #InclusiveCulture #NeuroEdge #deadlines #OrganisationalCulture #neurodiverse #KateHalpin #MentalHealth #Diversity #communication #coaching #training #anxiety #depression #belonging,"Mental Health Support, Interpersonal Communication, Professional Development & Productivity",,"Professional Development & Productivity, Interpersonal Communication, Mental Health Support, Emotional Wellbeing",,"Mentions productivity, time management, or work-related organization. References improving expression or preparing for professional/personal communication. Addresses emotional challenges or mental wellness support. Describes emotional grounding, structure, or non-judgmental support.",TRUE,FALSE,FALSE,TRUE,,"Challenges, Concerns",,"Challenges, Sharing Hacks and Resources â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Provides or suggests tools, apps, or productivity strategies.",Mixed,neutral +0.10 negative (-0.47) ,,"Why Mixed?
+Describes serious ADHD workplace challenges, but also includes proactive solutions. Emotionally heavy but constructive.",
+042,"🧠 Struggling with ADHD and executive function? There’s a tool that might help! 🌟
+
+Managing ADHD can be challenging, especially when it comes to staying organized and avoiding procrastination. But what if AI could lend a hand?
+I recently came across this insightful article from ADDitude Magazine on how ChatGPT can support individuals with ADHD in enhancing their executive function. Whether it’s for double-checking work, setting reminders, or finding creative ways to stay on track, ChatGPT offers practical solutions that could make a real difference.
+Check out the article to discover how AI can be a helpful resource for overcoming procrastination and boosting productivity:
+https://lnkd.in/gjpdBPa6.
+
+Let’s harness technology to turn our challenges into strengths! 💪 #ADHD #ExecutiveFunction #Productivity #AI #ChatGPT",#ADHD #ExecutiveFunction #Productivity #AI #ChatGPT,"Learning, Professional Development & Productivity",,"Professional Development & Productivity, Emotional Wellbeing",,"Mentions productivity, time management, or work-related organization. Describes emotional grounding, structure, or non-judgmental support.",FALSE,FALSE,TRUE,FALSE,,Sharing Hacks and Resources,,Challenges â€“ Mentions difficulty or challenge in managing ADHD or productivity.,Positive,negative (-0.55),,"Why Positive?
+Recommends article with encouragement: “Let’s harness technology to turn challenges into strengths!” Tone is hopeful, not pessimistic.",
+043,"🚀How AI is Helping Us Organize Our Thoughts in a World of Mental Clutter🚀
+
+I often find myself juggling multiple ideas at once – and structuring them can be challenging. Recently, I’ve been using ChatGPT as a way to organize and streamline my thoughts, almost like a vocal memo I can refer back to. Here’s how it’s been helping me:
+
+Externalizing and Organizing: AI lets me offload my thoughts without needing to get them perfect right away. It acts as a thought partner, helping me break down complex concepts and see the big picture clearly.
+
+A Tool for Focused Thinking: ChatGPT isn’t just a tool; it feels like a collaborator that helps me prioritize and structure ideas. Especially in my field, having a clear flow of thoughts is essential, and AI has made a real difference.
+
+Support for Neurodiverse Thinking: For those who, like me, are balancing many thoughts or dealing with attention challenges, AI’s structure and consistency can be incredibly valuable. I see how it could also support people with ADHD or autism who face similar organizational struggles.
+
+
+Using AI to think more freely, then refine later, has been transformative for me. It helps me focus on what matters most, without the mental clutter. If you haven’t explored AI for thought organization, I’d definitely recommend giving it a try!
+
+#AI #Productivity #Focus #Neurodiversity #ADHD #Autism #ChatGPT #Innovation #OrganizationalTools #TechForGood",#AI #Productivity #Focus #Neurodiversity #ADHD #Autism #ChatGPT #Innovation #OrganizationalTools #TechForGood,Professional Development & Productivity,,"Professional Development & Productivity, Emotional Wellbeing",,"Mentions productivity, time management, or work-related organization. Describes emotional grounding, structure, or non-judgmental support.",TRUE,TRUE,TRUE,FALSE,,"Challenges, Needs and Wants, Sharing Hacks and Resources",,"Challenges, Needs and Wants, Sharing Hacks and Resources â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Expresses needs or desires for tools, support, or improvements.; Provides or suggests tools, apps, or productivity strategies.",Mixed,positive (+0.60) ,,"Why Mixed?
+Expresses cognitive overload and relief via AI. “Struggling to structure,” followed by “transformative for me.” Balanced tone.",
+044,"🔍 𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗔𝗜 𝗮𝗻𝗱 𝗡𝗲𝘂𝗿𝗼𝗱𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆: 𝗔 𝗣𝗮𝘁𝗵 𝘁𝗼 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹𝗶𝘇𝗲𝗱 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆
+In today’s fast-paced world, productivity tools are everywhere, but many fall short when it comes to serving those of us who think and work differently. As someone with ADHD who is deeply passionate about both AI and neurodiversity, I’ve often pondered: 𝙃𝙤𝙬 𝙘𝙖𝙣 𝙬𝙚 𝙡𝙚𝙫𝙚𝙧𝙖𝙜𝙚 𝘼𝙄 𝙩𝙤 𝙚𝙣𝙝𝙖𝙣𝙘𝙚 𝙥𝙧𝙤𝙙𝙪𝙘𝙩𝙞𝙫𝙞𝙩𝙮 𝙞𝙣 𝙩𝙝𝙚 𝙪𝙣𝙞𝙦𝙪𝙚 𝙬𝙖𝙮𝙨 𝙣𝙚𝙪𝙧𝙤𝙙𝙞𝙫𝙚𝙧𝙨𝙚 𝙞𝙣𝙙𝙞𝙫𝙞𝙙𝙪𝙖𝙡𝙨 𝙖𝙥𝙥𝙧𝙤𝙖𝙘𝙝 𝙩𝙖𝙨𝙠𝙨?
+For individuals with ADHD, staying focused and organized can be a daily challenge. Traditional productivity tools often don’t address the specific needs of these users, leading to frustration and a feeling of being misunderstood. This is where AI comes into play.
+𝗔𝗜'𝘀 𝗣𝗼𝘁𝗲𝗻𝘁𝗶𝗮𝗹 𝘁𝗼 𝗘𝗺𝗽𝗼𝘄𝗲𝗿 𝗡𝗲𝘂𝗿𝗼𝗱𝗶𝘃𝗲𝗿𝘀𝗲 𝗠𝗶𝗻𝗱𝘀:
+- 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹𝗶𝘇𝗲𝗱 𝗦𝗰𝗵𝗲𝗱𝘂𝗹𝗶𝗻𝗴: AI can analyze patterns in a user’s behavior and tailor schedules that align with their peak focus times, reducing overwhelm.
+- 𝗧𝗮𝘀𝗸 𝗣𝗿𝗶𝗼𝗿𝗶𝘁𝗶𝘇𝗮𝘁𝗶𝗼𝗻: By understanding what tasks might be more challenging, AI can help in organizing them in a way that feels manageable.
+- 𝗥𝗲𝘄𝗮𝗿𝗱 𝗦𝘆𝘀𝘁𝗲𝗺𝘀: AI-driven gamification can create a sense of accomplishment, turning task completion into a rewarding experience.
+𝗧𝗵𝗲 𝗩𝗶𝘀𝗶𝗼𝗻 𝗕𝗲𝗵𝗶𝗻𝗱 𝗢𝘂𝗿 𝗣𝗿𝗼𝗱𝘂𝗰𝘁:
+Our goal isn’t just to build another productivity tool but to craft an AI-powered assistant that truly understands and adapts to the needs of individuals with ADHD. We envision a world where productivity isn’t about fitting into a one-size-fits-all model but about empowering every individual to work in a way that feels natural and fulfilling.
+With this in mind, we are developing an AI product that focuses on helping neurodiverse individuals, especially those with ADHD, schedule their day in a way that aligns with their unique cognitive patterns and feel a sense of accomplishment with each task completed.
+𝗧𝗵𝗲 𝗜𝗺𝗽𝗮𝗰𝘁 𝗪𝗲’𝗿𝗲 𝗔𝗶𝗺𝗶𝗻𝗴 𝗙𝗼𝗿:
+We’re not just building a tool; we’re advocating for a shift in how productivity is defined and achieved. By integrating AI with an understanding of neurodiversity, we can create solutions that not only enhance efficiency but also promote well-being.
+This journey is more than just tech development; it’s about creating meaningful change for those who often feel left out by traditional systems.
+𝗟𝗲𝘁’𝘀 𝗖𝗼𝗻𝗻𝗲𝗰𝘁:
+Are you passionate about AI, neurodiversity, or both? We’d love to hear your thoughts and experiences. How do you think AI can better serve neurodiverse communities? Share your ideas in the comments or send me a message—let’s collaborate to make productivity more inclusive for everyone.
+#AI #Neurodiversity #ADHD #Productivity #TechForGood #Innovation #MentalHealth
+Kavitha K. Jedd Goble Eddie Fu Aayush Dewan Anurag Ramteke",#AI #Neurodiversity #ADHD #Productivity #TechForGood #Innovation #MentalHealth,Professional Development & Productivity,,"Professional Development & Productivity, Interpersonal Communication, Mental Health Support",,"Mentions productivity, time management, or work-related organization. References improving expression or preparing for professional/personal communication. Addresses emotional challenges or mental wellness support.",TRUE,TRUE,FALSE,FALSE,,"Challenges, Needs and Wants",,"Challenges, Needs and Wants, Sharing Hacks and Resources â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Expresses needs or desires for tools, support, or improvements.; Provides or suggests tools, apps, or productivity strategies.",Mixed,positive (+0.73) ,,"Why Mixed?
+Advocates for inclusive tools but starts with “frustration and being misunderstood.” Text2Data likely saw promotional tone and missed context.",
+045,"While ChatGPT is a powerful tool, it’s not the only AI-driven solution designed to support neurodiverse individuals with executive functioning challenges. Let’s explore some other AI resources that can enhance productivity, focus, and organization.
+📌 Otter.ai – A voice-to-text transcription tool that helps individuals with ADHD or dyslexia take notes effortlessly in meetings and lectures.
+📌 Notion AI – A workspace tool that integrates AI for task tracking, reminders, and knowledge organization, ideal for structuring large projects.
+📌 Forest App – A focus-enhancing app that helps users stay on task by gamifying time management through a virtual tree-growing system.
+📌 Grammarly AI – Helps neurodiverse individuals refine writing, correct errors, and enhance clarity in communication.
+These tools, combined with ChatGPT, create a customized support system for managing executive functioning challenges. But what about accessibility? Next, we’ll discuss the financial and accessibility barriers of AI tools and how to overcome them.
+💡 What AI tools have you found helpful? Let’s build a list of resources together! Drop your favorites below.
+#Neurodiversity #AI #Productivity #ExecutiveFunctioning #InclusiveTechnology",#Neurodiversity #AI #Productivity #ExecutiveFunctioning #InclusiveTechnology,"Interpersonal Communication, Learning, Professional Development & Productivity",,"Professional Development & Productivity, Emotional Wellbeing",,"Mentions productivity, time management, or work-related organization. Describes emotional grounding, structure, or non-judgmental support.",FALSE,FALSE,TRUE,FALSE,,Sharing Hacks and Resources,,"Challenges, Sharing Hacks and Resources â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Provides or suggests tools, apps, or productivity strategies.",Positive,positive (+0.98) neutral (+0.20) ,,"This post is essentially a curated resource list of AI tools for neurodivergent users. The tone is inviting, helpful, and enthusiastic — focused on solutions, not problems. Words like “enhance productivity,” “gamifying,” “refine writing,” show a consistent praise-oriented tone, which both tools accurately picked up as positive.",
+046,"💡 AI as My Brain’s Best Plug-In 💡
+
+Living with Autism and ADHD (AuDHD) means my brain is always firing with ideas—so many that sometimes they vanish before I can act on them. Structuring my thoughts, starting tasks, and turning creativity into action can be a challenge. But AI has changed the game for me.
+For me, AI isn't about taking shortcuts. It’s an enabler. It acts like a plug-in extension for my brain, helping me:
+
+✅ Turn rapid-fire ideas into deliverables – No more losing great thoughts before they take shape.
+✅ Power up research – My ability to gather insights is now even stronger and faster.
+✅ Beat procrastination – AI helps me start, which is often the hardest part. Once I have a structure, I’m off!
+✅ Stay organised – It captures, refines, and prioritises my thoughts so they don’t disappear into the ether.
+✅ Enhance, not replace, my work – AI doesn’t do my job for me; it supports my thinking, making sure my output is truly mine, just clearer and more efficient.
+
+Using AI isn’t about losing authenticity—it’s about unlocking my potential every single day, at work and beyond. I’ve also learned that the key to making AI work for me is mastering prompts and refining outputs so they reflect my own voice and ideas.
+
+I’d love to hear from other neurodivergent professionals—how has AI helped you? Do you have any favourite prompts or ways to make it work with your brain? Let’s share and grow together! 🚀
+
+This post has been written by me and refined by AI using my prompts and tone of voice 👏 
+
+#AI #Neurodiversity #AuDHD #Productivity #AIandMe",#AI #Neurodiversity #AuDHD #Productivity #AIandMe,"Interpersonal Communication, Learning, Professional Development & Productivity",,"Professional Development & Productivity, Learning, Emotional Wellbeing",,"Mentions productivity, time management, or work-related organization. Indicates use of AI for understanding or processing information. Describes emotional grounding, structure, or non-judgmental support.",TRUE,FALSE,TRUE,FALSE,,"Challenges, Sharing Hacks and Resources",,Challenges â€“ Mentions difficulty or challenge in managing ADHD or productivity.,Mixed,neutral (+0.10) ,,"Why Mixed?
+Joyful and reflective but also explores procrastination, vanishing ideas, difficulty with structuring. It’s authentic and emotionally layered.",
+047,"Fun Fact Friday: Breaking Barriers in Coding with AI Tools
+
+I never thought coding would be in my wheelhouse. Dyslexia and typing just don’t mix for me—it’s always been my biggest challenge. But here I am, building projects and creating something I never dreamed I could do, thanks to an incredible set of tools that make it possible.
+
+Here’s my current AI-assisted coding workflow:
+ 1. Claude for brainstorming and breaking down big ideas into smaller, manageable steps.
+ 2. ChatGPT for refining code snippets, debugging, and generating natural language explanations.
+ 3. Bolt.new to test small ideas quickly and experiment with functionality.
+ 4. Cursor.ai to create seamless coding workflows and iterate faster.
+ 5. VSCode Editor to test, tweak, and deploy code with precision and control.
+
+This process has completely flipped the script on what I thought was possible. By combining natural language models with user-friendly platforms, I’ve been able to:
+ • Write and edit code without getting stuck on typing.
+ • Test and iterate in real time.
+ • Launch meaningful projects like the Dyslexic Language Model (DLM) that bridges AI and neurodivergent thinking.
+
+These tools aren’t just valuable for people like me—they’re powerful for anyone who wants to optimize their workflows and dive into coding, even without a traditional background.
+
+If you’ve been curious about how to start or improve your own coding journey, I can’t recommend this workflow enough. These tools work together beautifully, helping me push boundaries I never thought I could cross.
+
+What tools or processes have been game-changers for you? Let’s share and grow together!
+
+#DyslexicAI #CodingWithAI #NeurodivergentTech #AIWorkflow #InnovationThroughAI",#DyslexicAI #CodingWithAI #NeurodivergentTech #AIWorkflow #InnovationThroughAI,Professional Development & Productivity,,Professional Development & Productivity,,"Mentions productivity, time management, or work-related organization.",FALSE,TRUE,FALSE,FALSE,,Needs and Wants,,"Challenges, Needs and Wants, Sharing Hacks and Resources â€“ Mentions difficulty or challenge in managing ADHD or productivity.; Expresses needs or desires for tools, support, or improvements.; Provides or suggests tools, apps, or productivity strategies.",Positive,neutral (+0.15) ,,"Positive is correct
+
+Justification: The author shares a deeply inspiring story of breaking coding barriers, thanks to AI. The tone is hopeful, empowered, and filled with gratitude. Words like “game-changer,” “beautifully,” and “recommend” carry clear positive sentiment overlooked by rule-based scoring.",
+048,"Last week, I shared my personal journey of leveraging ChatGPT to manage ADHD and boost productivity. This week, I delve into how this AI tool enhances research, offering practical insights for neurodivergent individuals. For instance, while researching advancements in AI technology, ChatGPT helped streamline the process by providing structured organization and reminding me of key milestones.
+
+One standout experience for me is the luxury of revisiting research threads, a game-changing feature that has transformed my workflow. Whether it’s conducting market research, gathering data, or crafting compelling narratives, ChatGPT has been an invaluable ally.
+
+Stay tuned for future articles in this series, covering organization, writing assistance, time management, and more. Join me in embracing the power of technology to unlock productivity! 🌟
+
+#ADHD #ChatGPT #Productivity #Neurodiversity #Research #AI #ArtificialIntelligence #AssistiveTechnology #Innovation #TechTools #Workflow #MentalHealth #TaskManagement #Organization #DataGathering #NarrativeCrafting #MarketResearch #Technology #Efficiency #Neurodivergent #Support #FutureOfWork https://www.linkedin.com/feed/update/urn:li:activity:7199466237372866561?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7199466237372866561%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3BNvggkGFiSDOkWCscau6tUA%3D%3D",#ADHD #ChatGPT #Productivity #Neurodiversity #Research #AI #ArtificialIntelligence #AssistiveTechnology #Innovation #TechTools #Workflow #MentalHealth #TaskManagement #Organization #DataGathering #NarrativeCrafting #MarketResearch #Technology #Efficiency #Neurodivergent #Support #FutureOfWork,"Interpersonal Communication, Professional Development & Productivity",,"Professional Development & Productivity, Learning, Emotional Wellbeing",,"Mentions productivity, time management, or work-related organization. Indicates use of AI for understanding or processing information. Describes emotional grounding, structure, or non-judgmental support.",FALSE,FALSE,FALSE,FALSE,,,,"Sharing Hacks and Resources â€“ Provides or suggests tools, apps, or productivity strategies.",Positive,neutral (+0.16),,"Why Mixed?
+Includes positive outcomes but also hints at overreliance and difficulty staying organised. Tone is informative, not purely upbeat.",
+049,"Are you curious about how to start using AI in your daily life or business? 
+
+Our latest Dyslexic AI Newsletter #245 is here to guide you! 
+We break down the basics, address common fears, and share simple steps to get started with AI. 
+Perfect for neurodivergent and dyslexic thinkers!
+Discover how AI can boost productivity, offer personalized support, and foster innovation.
+Dive into the article now and see how AI can transform your life!
+#DyslexicAI #AINative #AI #Neurodiversity #Innovation #Productivity
+
+Let’s embrace the future of AI together! https://www.linkedin.com/feed/update/urn:li:activity:7224088221150797825?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7224088221150797825%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3BNvggkGFiSDOkWCscau6tUA%3D%3D",#DyslexicAI #AINative #AI #Neurodiversity #Innovation #Productivity,Professional Development & Productivity,,"Professional Development & Productivity, Emotional Wellbeing",,"Mentions productivity, time management, or work-related organization. Describes emotional grounding, structure, or non-judgmental support.",FALSE,FALSE,TRUE,TRUE,,"Sharing Hacks and Resources, Concerns",,Concerns â€“ Mentions worries or possible negative effects of AI tools.,Positive, positive (+0.54) ,,"Though optimistic in topic, the post lacks personal tone, feeling, or reflection—it's a brief promo for a newsletter. The LLM interprets this as Neutral due to the absence of emotional depth, while Text2Data tags it Positive likely due to keywords like “boost” and “embrace.”",
+050,"Completely agree with this. Countless discussions with other Product Managers and colleagues working in product and technology-related functions have revealed the micro-improvements to productivity they have found by trying different capabilities, either with embedded, limited M365 Copilot, or supplemented with indirect 3rd-party use (e.g. ChatGPT, Google Gemini or aggregators like Perplexity). 
+The longer businesses take to understand their use cases for adoption, the higher their risk of information being shared outside of an ecosystem they control. They also risk these behaviours of using 3rd-party solutions being habitualised. Everyone wants their job to be easier and more productive and will often find the shortest pathway to achieve that.
+All this is before you even consider the Neurodivergent community, who benefit massively from simplifying administrative overwhelm in their roles.
+#productivity #AI #Neurodiversity #Neurodivergent https://www.linkedin.com/feed/update/urn:li:activity:7298865997464129536?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7298865997464129536%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3BNvggkGFiSDOkWCscau6tUA%3D%3D",#productivity #AI #Neurodiversity #Neurodivergent,Professional Development & Productivity,,"Professional Development & Productivity, Mental Health Support",,"Mentions productivity, time management, or work-related organization. Addresses emotional challenges or mental wellness support.",TRUE,TRUE,FALSE,TRUE,,"Challenges, Needs and Wants, Concerns",,"Needs and Wants, Sharing Hacks and Resources, Concerns â€“ Expresses needs or desires for tools, support, or improvements.; Provides or suggests tools, apps, or productivity strategies.; Mentions worries or possible negative effects of AI tools.",Positive, positive (+0.71) ,,"Text2Data likely rated it “positive” due to focus on words like “benefit” and “simplifying overwhelm,” without recognising the embedded risks. Positive is correct
+
+Justification: The writer shares a personal journey, describing ChatGPT as a “luxury” and “invaluable ally” while outlining how it improved their productivity. The tone is warm, authentic, and grateful, with emotional uplift—again, missed by rule-based NLP.",
